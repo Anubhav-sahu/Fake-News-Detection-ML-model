@@ -29,30 +29,6 @@ if st.button("Check"):
     else:
         st.warning("Please enter some text!")
 
-# Save the modified app.py file
-
-# Initialize a new Git repository
-# Run the following commands in the terminal:
-# cd /C:/Users/LENOVO/Desktop/Coding/python/fake news detection/
-# git init
-
-# Add the files to the repository
-# Run the following command in the terminal:
-# git add .
-
-# Commit the changes
-# Run the following command in the terminal:
-# git commit -m "Initial commit"
-
-# Create a new repository on GitHub
-
-# Add the remote repository URL
-# Run the following command in the terminal:
-# git remote add origin <remote_repository_url>
-
-# Push the code to GitHub
-# Run the following command in the terminal:
-# git push -u origin master
 
 # To run the project, use the following command in the terminal:
 # streamlit run app.py
