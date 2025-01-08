@@ -37,17 +37,10 @@ Follow these steps to set up the project on your local system:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
-cd fake-news-detection
-```
+git clone https://github.com/Anubhav-sahu/Fake-News-Detection-ML-model.git
+``
 
-### **2. Install Dependencies**
-Make sure Python is installed . Install the required libraries using:  
-```bash
-pip install -r requirements.txt
-```
-
-### **3. Run the Streamlit App**
+### **2. Run the Streamlit App**
 Start the Streamlit UI by running:  
 ```bash
 streamlit run app.py
